@@ -12,7 +12,7 @@ Customer retention is critical for subscription businesses. This dashboard helps
 
 ## 📂 Dataset
 
-**IBM Telco Customer Churn Dataset**
+**Telco Customer Churn Dataset**
 
 * **Customers:** 7,043
 * **Columns:** 21
